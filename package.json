@@ -53,6 +53,5 @@
         "nodemailer-smtp-transport": "^2.7.4",
         "raw-body": "^2.5.2",
         "rotating-file-stream": "^3.1.0",
-        "socket.io": "^4.6.1"
-    }
+     }
 }
