@@ -1,6 +1,9 @@
 {
     "name": "nodejs_2023",
     "version": "1.0.0",
+    "engines": {
+        "node": "16.13.1"
+      },
     "description": "",
     "main": "src/index.js",
     "scripts": {
